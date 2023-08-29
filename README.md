@@ -1,6 +1,7 @@
-<img alt="Coder GIF" height=480 width=720 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=300 width=480 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 # 💫 About Me:
+Hey, it's Sourav here.  
 I'm currently studying a Full Time Web Development course at Masai School.<br>So, far I've learned making websites using CSS, HTML, JS, and Basic React.
 
 
